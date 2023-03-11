@@ -32,4 +32,3 @@ class Solution:
         root.right = self.sortedListToBST(right_side)
 
         return root
-    
