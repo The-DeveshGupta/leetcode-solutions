@@ -1,4 +1,4 @@
-len(self.page_list) - 1class BrowserHistory:
+class BrowserHistory:
 
     def __init__(self, homepage: str):
         self.page_list = [homepage]
